@@ -2,6 +2,8 @@
 
 **By [@starzq](https://x.com/starzq/)**
 
+**English** | [中文](#elon-musk-思维技能)
+
 ---
 
 > "I am obsessed with truth. Pathologically." — Elon Musk
@@ -45,12 +47,6 @@ claude skills add https://github.com/star23/elon-musk
 ```bash
 clawhub install elon-musk-think
 ```
-
-### GitHub Install
-
-1. Go to [github.com/star23/elon-musk](https://github.com/star23/elon-musk)
-2. Click **"Use this skill"** or fork the repository
-3. Follow the prompts to add it to your Claude setup
 
 ### Manual Install
 
@@ -103,6 +99,8 @@ This skill stands on the shoulders of giants:
 
 **作者 [@starzq](https://x.com/starzq/)**
 
+[English](#elon-musk-thinking-skill) | **中文**
+
 ---
 
 > "我对真相有一种病态的执着。" — Elon Musk
@@ -146,12 +144,6 @@ claude skills add https://github.com/star23/elon-musk
 ```bash
 clawhub install elon-musk-think
 ```
-
-### GitHub 安装
-
-1. 前往 [github.com/star23/elon-musk](https://github.com/star23/elon-musk)
-2. 点击 **"Use this skill"** 或 fork 仓库
-3. 按照提示将其添加到你的 Claude 设置中
 
 ### 手动安装
 
