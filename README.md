@@ -40,6 +40,12 @@ npx skills add https://github.com/star23/elon-musk
 claude skills add https://github.com/star23/elon-musk
 ```
 
+### ClawHub
+
+```bash
+clawhub install elon-musk-think
+```
+
 ### GitHub Install
 
 1. Go to [github.com/star23/elon-musk](https://github.com/star23/elon-musk)
@@ -133,6 +139,12 @@ npx skills add https://github.com/star23/elon-musk
 
 ```bash
 claude skills add https://github.com/star23/elon-musk
+```
+
+### ClawHub
+
+```bash
+clawhub install elon-musk-think
 ```
 
 ### GitHub 安装
